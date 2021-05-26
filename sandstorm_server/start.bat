@@ -1,0 +1,1 @@
+InsurgencyServer.exe PowerPlant?Scenario=Scenario_PowerPlant_Checkpoint_Security?MaxPlayers=3?game=CheckpointHardcore?password=slank -Port=27102 -QueryPort=27131 -log -hostname="Grum" -MapCycle=MapCycle.txt
